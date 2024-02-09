@@ -97,7 +97,7 @@ int main(){
 
 
 
-    //Pascals triangle(3 diff questions )
+    // Pascals triangle(3 diff questions )
     // int a=7;
     // for(int row=1;row<=a;row++){
 
